@@ -1,0 +1,2 @@
+# stars
+Resolvedor de puzzles
